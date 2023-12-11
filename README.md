@@ -1,1 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/PHq8Kfj_)
+# Rice Cooker 
+
+## Description
+
+The Rice Cooker Simulator is a command-line interface (CLI) application simulating a rice cooker.  The application is written in Dart, C#, Go, and Ruby, following object-oriented programming principles with a focus on clean code.
+User can choose with few cooking mode, choose the alert type and choose if he want to shutdown the rice cooker after cooking or not.
+
+## Languages Used
+
+- Dart
+- C#
+- Go
+- Ruby
+
+
+
